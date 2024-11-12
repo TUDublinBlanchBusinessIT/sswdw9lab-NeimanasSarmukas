@@ -1,6 +1,6 @@
 <?php
 
-include("Team.php");
+include("team.php");
 
 $myTeam = new Team("Tigers");
 
